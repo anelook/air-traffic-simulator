@@ -1,0 +1,2551 @@
+{
+  "JFK": {
+    "name": "John F. Kennedy International Airport",
+    "code": "JFK",
+    "coordinates": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    }
+  },
+  "LAX": {
+    "name": "Los Angeles International Airport",
+    "code": "LAX",
+    "coordinates": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    }
+  },
+  "ORD": {
+    "name": "Chicago O'Hare International Airport",
+    "code": "ORD",
+    "coordinates": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    }
+  },
+  "DFW": {
+    "name": "Dallas/Fort Worth International Airport",
+    "code": "DFW",
+    "coordinates": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    }
+  },
+  "LHR": {
+    "name": "London Heathrow Airport",
+    "code": "LHR",
+    "coordinates": {
+      "latitude": 51.4700,
+      "longitude": -0.4543
+    }
+  },
+  "CDG": {
+    "name": "Paris Charles de Gaulle Airport",
+    "code": "CDG",
+    "coordinates": {
+      "latitude": 49.0034,
+      "longitude": 2.5670
+    }
+  },
+  "AMS": {
+    "name": "Amsterdam Airport Schiphol",
+    "code": "AMS",
+    "coordinates": {
+      "latitude": 52.3086,
+      "longitude": 4.7639
+    }
+  },
+  "FCO": {
+    "name": "Leonardo da Vinci–Fiumicino Airport",
+    "code": "FCO",
+    "coordinates": {
+      "latitude": 41.8003,
+      "longitude": 12.2389
+    }
+  },
+  "MAD": {
+    "name": "Adolfo Suárez Madrid–Barajas Airport",
+    "code": "MAD",
+    "coordinates": {
+      "latitude": 40.4919,
+      "longitude": -3.5691
+    }
+  },
+  "FRA": {
+    "name": "Frankfurt Airport",
+    "code": "FRA",
+    "coordinates": {
+      "latitude": 50.0333,
+      "longitude": 8.5706
+    }
+  },
+  "MXP": {
+    "name": "Milan Malpensa Airport",
+    "code": "MXP",
+    "coordinates": {
+      "latitude": 45.6306,
+      "longitude": 8.7255
+    }
+  },
+  "BCN": {
+    "name": "Barcelona–El Prat Airport",
+    "code": "BCN",
+    "coordinates": {
+      "latitude": 41.2971,
+      "longitude": 2.0785
+    }
+  },
+  "LIS": {
+    "name": "Lisbon Airport",
+    "code": "LIS",
+    "coordinates": {
+      "latitude": 38.7704,
+      "longitude": -9.1291
+    }
+  },
+  "ATH": {
+    "name": "Athens International Airport",
+    "code": "ATH",
+    "coordinates": {
+      "latitude": 37.9364,
+      "longitude": 23.9445
+    }
+  },
+  "OSL": {
+    "name": "Oslo Gardermoen Airport",
+    "code": "OSL",
+    "coordinates": {
+      "latitude": 60.1942,
+      "longitude": 11.1004
+    }
+  },
+  "CPH": {
+    "name": "Copenhagen Airport",
+    "code": "CPH",
+    "coordinates": {
+      "latitude": 55.618,
+      "longitude": 12.6561
+    }
+  },
+  "ARN": {
+    "name": "Stockholm Arlanda Airport",
+    "code": "ARN",
+    "coordinates": {
+      "latitude": 59.6498,
+      "longitude": 17.9239
+    }
+  },
+  "HEL": {
+    "name": "Helsinki Vantaa Airport",
+    "code": "HEL",
+    "coordinates": {
+      "latitude": 60.3172,
+      "longitude": 24.9633
+    }
+  },
+  "SVG": {
+    "name": "Stavanger Airport, Sola",
+    "code": "SVG",
+    "coordinates": {
+      "latitude": 58.8767,
+      "longitude": 5.6378
+    }
+  },
+  "FRA": {
+    "name": "Frankfurt Airport",
+    "code": "FRA",
+    "coordinates": {
+      "latitude": 50.0333,
+      "longitude": 8.5706
+    }
+  },
+  "MUC": {
+    "name": "Munich Airport",
+    "code": "MUC",
+    "coordinates": {
+      "latitude": 48.3537,
+      "longitude": 11.7751
+    }
+  },
+  "DUS": {
+    "name": "Dusseldorf Airport",
+    "code": "DUS",
+    "coordinates": {
+      "latitude": 51.2808,
+      "longitude": 6.7669
+    }
+  },
+  "TXL": {
+    "name": "Berlin Tegel Airport",
+    "code": "TXL",
+    "coordinates": {
+      "latitude": 52.5597,
+      "longitude": 13.2877
+    }
+  },
+  "MAN": {
+    "name": "Manchester Airport",
+    "code": "MAN",
+    "coordinates": {
+      "latitude": 53.3653,
+      "longitude": -2.2722
+    }
+  },
+  "BHX": {
+    "name": "Birmingham Airport",
+    "code": "BHX",
+    "coordinates": {
+      "latitude": 52.4539,
+      "longitude": -1.748
+    }
+  },
+  "LHR": {
+    "name": "London Heathrow Airport",
+    "code": "LHR",
+    "coordinates": {
+      "latitude": 51.4700,
+      "longitude": -0.4543
+    }
+  },
+  "LGW": {
+    "name": "London Gatwick Airport",
+    "code": "LGW",
+    "coordinates": {
+      "latitude": 51.1537,
+      "longitude": -0.1821
+    }
+  },
+  "LCY": {
+    "name": "London City Airport",
+    "code": "LCY",
+    "coordinates": {
+      "latitude": 51.5053,
+      "longitude": 0.0553
+    }
+  },
+  "EDI": {
+    "name": "Edinburgh Airport",
+    "code": "EDI",
+    "coordinates": {
+      "latitude": 55.9508,
+      "longitude": -3.3615
+    }
+  },
+  "HAM": {
+    "name": "Hamburg Airport",
+    "code": "HAM",
+    "coordinates": {
+      "latitude": 53.6304,
+      "longitude": 9.9882
+    }
+  },
+  "CGN": {
+    "name": "Cologne Bonn Airport",
+    "code": "CGN",
+    "coordinates": {
+      "latitude": 50.8667,
+      "longitude": 7.1428
+    }
+  },
+  "AAR": {
+    "name": "Aarhus Airport",
+    "code": "AAR",
+    "coordinates": {
+      "latitude": 56.3081,
+      "longitude": 10.619
+    }
+  },
+  "ABD": {
+    "name": "Abadan International Airport",
+    "code": "ABD",
+    "coordinates": {
+      "latitude": 30.3711,
+      "longitude": 48.2283
+    }
+  },
+  "AEH": {
+    "name": "Abeche Airport",
+    "code": "AEH",
+    "coordinates": {
+      "latitude": 13.847,
+      "longitude": 20.8441
+    }
+  },
+  "ABZ": {
+    "name": "Aberdeen Airport",
+    "code": "ABZ",
+    "coordinates": {
+      "latitude": 57.2019,
+      "longitude": -2.1974
+    }
+  },
+  "ABR": {
+    "name": "Aberdeen Regional Airport",
+    "code": "ABR",
+    "coordinates": {
+      "latitude": 45.4491,
+      "longitude": -98.4218
+    }
+  },
+  "ABJ": {
+    "name": "Felix Houphouet Boigny International Airport",
+    "code": "ABJ",
+    "coordinates": {
+      "latitude": 5.2614,
+      "longitude": -3.9266
+    }
+  },
+  "ABI": {
+    "name": "Abilene Regional Airport",
+    "code": "ABI",
+    "coordinates": {
+      "latitude": 32.4113,
+      "longitude": -99.6819
+    }
+  },
+  "AUH": {
+    "name": "Abu Dhabi International Airport",
+    "code": "AUH",
+    "coordinates": {
+      "latitude": 24.433,
+      "longitude": 54.6511
+    }
+  },
+  "ABV": {
+    "name": "Nnamdi Azikiwe International Airport",
+    "code": "ABV",
+    "coordinates": {
+      "latitude": 9.0068,
+      "longitude": 7.2633
+    }
+  },
+  "AUE": {
+    "name": "Abu Rudeis Airport",
+    "code": "AUE",
+    "coordinates": {
+      "latitude": 28.8358,
+      "longitude": 33.477
+    }
+  },
+  "ABS": {
+    "name": "Abu Simbel Airport",
+    "code": "ABS",
+    "coordinates": {
+      "latitude": 22.3767,
+      "longitude": 31.6117
+    }
+  },
+  "ACA": {
+    "name": "General Juan N Alvarez International Airport",
+    "code": "ACA",
+    "coordinates": {
+      "latitude": 16.7571,
+      "longitude": -99.753
+    }
+  },
+  "ACC": {
+    "name": "Kotoka International Airport",
+    "code": "ACC",
+    "coordinates": {
+      "latitude": 5.6052,
+      "longitude": -0.1668
+    }
+  },
+  "ADA": {
+    "name": "Adana Airport",
+    "code": "ADA",
+    "coordinates": {
+      "latitude": 36.9822,
+      "longitude": 35.2804
+    }
+  },
+  "ADD": {
+    "name": "Addis Ababa Bole International Airport",
+    "code": "ADD",
+    "coordinates": {
+      "latitude": 8.9779,
+      "longitude": 38.7993
+    }
+  },
+  "ADL": {
+    "name": "Adelaide Airport",
+    "code": "ADL",
+    "coordinates": {
+      "latitude": -34.945,
+      "longitude": 138.5306
+    }
+  },
+  "ADE": {
+    "name": "Aden International Airport",
+    "code": "ADE",
+    "coordinates": {
+      "latitude": 12.8264,
+      "longitude": 45.0297
+    }
+  },
+  "ADF": {
+    "name": "Adiyaman Airport",
+    "code": "ADF",
+    "coordinates": {
+      "latitude": 37.7314,
+      "longitude": 38.4689
+    }
+  },
+  "AER": {
+    "name": "Sochi International Airport",
+    "code": "AER",
+    "coordinates": {
+      "latitude": 43.4488,
+      "longitude": 39.9561
+    }
+  },
+  "AJY": {
+    "name": "Mano Dayak International Airport",
+    "code": "AJY",
+    "coordinates": {
+      "latitude": 16.965,
+      "longitude": 8.0001
+    }
+  },
+  "AGA": {
+    "name": "Agadir-Al Massira Airport",
+    "code": "AGA",
+    "coordinates": {
+      "latitude": 30.325,
+      "longitude": -9.4131
+    }
+  },
+  "SUM": {
+    "name": "Sumter Airport",
+    "code": "SUM",
+    "coordinates": {
+      "latitude": 33.9978,
+      "longitude": -80.3613
+    }
+  },
+  "AGZ": {
+    "name": "Aggeneys Airport",
+    "code": "AGZ",
+    "coordinates": {
+      "latitude": -29.2818,
+      "longitude": 18.8139
+    }
+  },
+  "BQN": {
+    "name": "Rafael Hernandez Airport",
+    "code": "BQN",
+    "coordinates": {
+      "latitude": 18.4952,
+      "longitude": -67.1358
+    }
+  },
+  "AGU": {
+    "name": "Lic. Jesus Teran Peredo International Airport",
+    "code": "AGU",
+    "coordinates": {
+      "latitude": 21.7056,
+      "longitude": -102.3175
+    }
+  },
+  "AMD": {
+    "name": "Sardar Vallabhbhai Patel International Airport",
+    "code": "AMD",
+    "coordinates": {
+      "latitude": 23.0772,
+      "longitude": 72.6347
+    }
+  },
+  "AYU": {
+    "name": "Aiyura Airport",
+    "code": "AYU",
+    "coordinates": {
+      "latitude": -6.3433,
+      "longitude": 145.981
+    }
+  },
+  "AJA": {
+    "name": "Ajaccio Napoleon Bonaparte Airport",
+    "code": "AJA",
+    "coordinates": {
+      "latitude": 41.9236,
+      "longitude": 8.8029
+    }
+  },
+  "AXT": {
+    "name": "Akita Airport",
+    "code": "AXT",
+    "coordinates": {
+      "latitude": 39.6156,
+      "longitude": 140.2189
+    }
+  },
+  "CAK": {
+    "name": "Akron-Canton Airport",
+    "code": "CAK",
+    "coordinates": {
+      "latitude": 40.9163,
+      "longitude": -81.4422
+    }
+  },
+  "AKT": {
+    "name": "Akrotiri Airport",
+    "code": "AKT",
+    "coordinates": {
+      "latitude": 34.5901,
+      "longitude": 32.9879
+    }
+  },
+  "AAN": {
+    "name": "Al Ain International Airport",
+    "code": "AAN",
+    "coordinates": {
+      "latitude": 24.2617,
+      "longitude": 55.6092
+    }
+  },
+  "AAC": {
+    "name": "El Arish International Airport",
+    "code": "AAC",
+    "coordinates": {
+      "latitude": 31.0733,
+      "longitude": 33.8358
+    }
+  },
+  "ALH": {
+    "name": "Albany Airport",
+    "code": "ALH",
+    "coordinates": {
+      "latitude": -34.9433,
+      "longitude": 117.805
+    }
+  },
+  "ABY": {
+    "name": "Southwest Georgia Regional Airport",
+    "code": "ABY",
+    "coordinates": {
+      "latitude": 31.5355,
+      "longitude": -84.1945
+    }
+  },
+  "ALB": {
+    "name": "Albany International Airport",
+    "code": "ALB",
+    "coordinates": {
+      "latitude": 42.7481,
+      "longitude": -73.802
+    }
+  },
+  "LBI": {
+    "name": "Albi-Le Sequestre Airport",
+    "code": "LBI",
+    "coordinates": {
+      "latitude": 43.9139,
+      "longitude": 2.1131
+    }
+  },
+  "ALC": {
+    "name": "Alicante-Elche Airport",
+    "code": "ALC",
+    "coordinates": {
+      "latitude": 38.2822,
+      "longitude": -0.5582
+    }
+  },
+  "ASP": {
+    "name": "Alice Springs Airport",
+    "code": "ASP",
+    "coordinates": {
+      "latitude": -23.8067,
+      "longitude": 133.9025
+    }
+  },
+  "ADY": {
+    "name": "Alldays Airport",
+    "code": "ADY",
+    "coordinates": {
+      "latitude": -22.679,
+      "longitude": 29.0553
+    }
+  },
+  "ABE": {
+    "name": "Lehigh Valley International Airport",
+    "code": "ABE",
+    "coordinates": {
+      "latitude": 40.6521,
+      "longitude": -75.4408
+    }
+  },
+  "ALA": {
+    "name": "Almaty International Airport",
+    "code": "ALA",
+    "coordinates": {
+      "latitude": 43.3521,
+      "longitude": 77.0405
+    }
+  },
+  "LEI": {
+    "name": "Almeria Airport",
+    "code": "LEI",
+    "coordinates": {
+      "latitude": 36.8446,
+      "longitude": -2.3701
+    }
+  },
+  "ALF": {
+    "name": "Alta Airport",
+    "code": "ALF",
+    "coordinates": {
+      "latitude": 69.9761,
+      "longitude": 23.3575
+    }
+  },
+  "AAT": {
+    "name": "Altay Airport",
+    "code": "AAT",
+    "coordinates": {
+      "latitude": 47.7492,
+      "longitude": 88.0844
+    }
+  },
+  "ACH": {
+    "name": "St. Gallen-Altenrhein Airport",
+    "code": "ACH",
+    "coordinates": {
+      "latitude": 47.485,
+      "longitude": 9.561
+    }
+  },
+  "AOO": {
+    "name": "Altoona-Blair County Airport",
+    "code": "AOO",
+    "coordinates": {
+      "latitude": 40.2964,
+      "longitude": -78.319
+    }
+  },
+  "AXS": {
+    "name": "Altus/Quartz Mountain Regional Airport",
+    "code": "AXS",
+    "coordinates": {
+      "latitude": 34.6989,
+      "longitude": -99.3386
+    }
+  },
+  "ASJ": {
+    "name": "Amami Airport",
+    "code": "ASJ",
+    "coordinates": {
+      "latitude": 28.4306,
+      "longitude": 129.712
+    }
+  },
+  "AMA": {
+    "name": "Rick Husband Amarillo International Airport",
+    "code": "AMA",
+    "coordinates": {
+      "latitude": 35.2194,
+      "longitude": -101.705
+    }
+  },
+  "AZB": {
+    "name": "Amazon Bay Airport",
+    "code": "AZB",
+    "coordinates": {
+      "latitude": -9.4,
+      "longitude": 142.75
+    }
+  },
+  "AMM": {
+    "name": "Queen Alia International Airport",
+    "code": "AMM",
+    "coordinates": {
+      "latitude": 31.7226,
+      "longitude": 35.9932
+    }
+  },
+  "ADJ": {
+    "name": "Amman Civil Airport",
+    "code": "ADJ",
+    "coordinates": {
+      "latitude": 31.9756,
+      "longitude": 35.984
+    }
+  },
+  "ATQ": {
+    "name": "Sri Guru Ram Dass Jee International Airport",
+    "code": "ATQ",
+    "coordinates": {
+      "latitude": 31.7096,
+      "longitude": 74.8067
+    }
+  },
+  "AMS": {
+    "name": "Amsterdam Airport Schiphol",
+    "code": "AMS",
+    "coordinates": {
+      "latitude": 52.3086,
+      "longitude": 4.7639
+    }
+  },
+  "QNB": {
+    "name": "Annette Island Airport",
+    "code": "QNB",
+    "coordinates": {
+      "latitude": 55.0387,
+      "longitude": -131.572
+    }
+  },
+  "ANC": {
+    "name": "Ted Stevens Anchorage International Airport",
+    "code": "ANC",
+    "coordinates": {
+      "latitude": 61.1744,
+      "longitude": -149.998
+    }
+  },
+  "AOI": {
+    "name": "Marche Airport",
+    "code": "AOI",
+    "coordinates": {
+      "latitude": 43.6164,
+      "longitude": 13.3623
+    }
+  },
+  "ALV": {
+    "name": "Andorra La Vella Heliport",
+    "code": "ALV",
+    "coordinates": {
+      "latitude": 42.5078,
+      "longitude": 1.5219
+    }
+  },
+  "AXA": {
+    "name": "Clayton J. Lloyd International Airport",
+    "code": "AXA",
+    "coordinates": {
+      "latitude": 18.2048,
+      "longitude": -63.0566
+    }
+  },
+  "AJN": {
+    "name": "Ouani Airport",
+    "code": "AJN",
+    "coordinates": {
+      "latitude": -12.1317,
+      "longitude": 44.4303
+    }
+  },
+  "ANK": {
+    "name": "Etimesgut Air Base",
+    "code": "ANK",
+    "coordinates": {
+      "latitude": 39.9498,
+      "longitude": 32.6886
+    }
+  },
+  "ESB": {
+    "name": "Esenboğa International Airport",
+    "code": "ESB",
+    "coordinates": {
+      "latitude": 40.1281,
+      "longitude": 32.9951
+    }
+  },
+  "AAE": {
+    "name": "Rabah Bitat Airport",
+    "code": "AAE",
+    "coordinates": {
+      "latitude": 36.8222,
+      "longitude": 7.8097
+    }
+  },
+  "ARB": {
+    "name": "Ann Arbor Municipal Airport",
+    "code": "ARB",
+    "coordinates": {
+      "latitude": 42.222,
+      "longitude": -83.7459
+    }
+  },
+  "NCY": {
+    "name": "Annecy - Meythet Airport",
+    "code": "NCY",
+    "coordinates": {
+      "latitude": 45.9308,
+      "longitude": 6.1064
+    }
+  },
+  "ANB": {
+    "name": "Anniston Regional Airport",
+    "code": "ANB",
+    "coordinates": {
+      "latitude": 33.5882,
+      "longitude": -85.8584
+    }
+  },
+  "AYT": {
+    "name": "Antalya Airport",
+    "code": "AYT",
+    "coordinates": {
+      "latitude": 36.899,
+      "longitude": 30.8017
+    }
+  },
+  "TNR": {
+    "name": "Ivato International Airport",
+    "code": "TNR",
+    "coordinates": {
+      "latitude": -18.7992,
+      "longitude": 47.4788
+    }
+  },
+  "ANU": {
+    "name": "V.C. Bird International Airport",
+    "code": "ANU",
+    "coordinates": {
+      "latitude": 17.1367,
+      "longitude": -61.7925
+    }
+  },
+  "ANR": {
+    "name": "Antwerp International Airport",
+    "code": "ANR",
+    "coordinates": {
+      "latitude": 51.1894,
+      "longitude": 4.4603
+    }
+  },
+  "AOJ": {
+    "name": "Aomori Airport",
+    "code": "AOJ",
+    "coordinates": {
+      "latitude": 40.7347,
+      "longitude": 140.6908
+    }
+  },
+  "APW": {
+    "name": "Faleolo International Airport",
+    "code": "APW",
+    "coordinates": {
+      "latitude": -13.829,
+      "longitude": -172.008
+    }
+  },
+  "ATW": {
+    "name": "Appleton International Airport",
+    "code": "ATW",
+    "coordinates": {
+      "latitude": 44.2575,
+      "longitude": -88.5191
+    }
+  },
+  "AQJ": {
+    "name": "King Hussein International Airport",
+    "code": "AQJ",
+    "coordinates": {
+      "latitude": 29.6117,
+      "longitude": 35.0181
+    }
+  },
+  "ARH": {
+    "name": "Talagi Airport",
+    "code": "ARH",
+    "coordinates": {
+      "latitude": 64.6003,
+      "longitude": 40.7167
+    }
+  },
+  "ARK": {
+    "name": "Arusha Airport",
+    "code": "ARK",
+    "coordinates": {
+      "latitude": -3.3678,
+      "longitude": 36.6333
+    }
+  },
+  "GPA": {
+    "name": "Araxos Airport",
+    "code": "GPA",
+    "coordinates": {
+      "latitude": 38.1511,
+      "longitude": 21.4256
+    }
+  },
+  "RLT": {
+    "name": "Arlit Airport",
+    "code": "RLT",
+    "coordinates": {
+      "latitude": 18.7697,
+      "longitude": 7.3361
+    }
+  },
+  "ACE": {
+    "name": "Lanzarote Airport",
+    "code": "ACE",
+    "coordinates": {
+      "latitude": 28.9455,
+      "longitude": -13.6052
+    }
+  },
+  "AUA": {
+    "name": "Queen Beatrix International Airport",
+    "code": "AUA",
+    "coordinates": {
+      "latitude": 12.5014,
+      "longitude": -70.0137
+    }
+  },
+  "AVL": {
+    "name": "Asheville Regional Airport",
+    "code": "AVL",
+    "coordinates": {
+      "latitude": 35.4362,
+      "longitude": -82.5418
+    }
+  },
+  "ASB": {
+    "name": "Ashgabat International Airport",
+    "code": "ASB",
+    "coordinates": {
+      "latitude": 37.9822,
+      "longitude": 58.3306
+    }
+  },
+  "ASM": {
+    "name": "Asmara International Airport",
+    "code": "ASM",
+    "coordinates": {
+      "latitude": 15.2917,
+      "longitude": 38.9106
+    }
+  },
+  "ASE": {
+    "name": "Aspen-Pitkin County Airport",
+    "code": "ASE",
+    "coordinates": {
+      "latitude": 39.2232,
+      "longitude": -106.868
+    }
+  },
+  "ATZ": {
+    "name": "Asyut International Airport",
+    "code": "ATZ",
+    "coordinates": {
+      "latitude": 27.0465,
+      "longitude": 31.0116
+    }
+  },
+  "TSE": {
+    "name": "Astana Nursultan Nazarbayev International Airport",
+    "code": "TSE",
+    "coordinates": {
+      "latitude": 51.0222,
+      "longitude": 71.4664
+    }
+  },
+  "ASU": {
+    "name": "Silvio Pettirossi International Airport",
+    "code": "ASU",
+    "coordinates": {
+      "latitude": -25.2399,
+      "longitude": -57.5183
+    }
+  },
+  "ASW": {
+    "name": "Aswan International Airport",
+    "code": "ASW",
+    "coordinates": {
+      "latitude": 23.9644,
+      "longitude": 32.8194
+    }
+  },
+  "ATH": {
+    "name": "Athens International Airport",
+    "code": "ATH",
+    "coordinates": {
+      "latitude": 37.9364,
+      "longitude": 23.9445
+    }
+  },
+  "HEW": {
+    "name": "Athens Hellinikon Airport",
+    "code": "HEW",
+    "coordinates": {
+      "latitude": 37.8919,
+      "longitude": 23.7225
+    }
+  },
+  "AHN": {
+    "name": "Athens Ben Epps Airport",
+    "code": "AHN",
+    "coordinates": {
+      "latitude": 33.9486,
+      "longitude": -83.3263
+    }
+  },
+  "ATO": {
+    "name": "Ohio University Airport",
+    "code": "ATO",
+    "coordinates": {
+      "latitude": 39.2108,
+      "longitude": -82.2308
+    }
+  },
+  "ATL": {
+    "name": "Hartsfield-Jackson Atlanta International Airport",
+    "code": "ATL",
+    "coordinates": {
+      "latitude": 33.6407,
+      "longitude": -84.4277
+    }
+  },
+  "ACY": {
+    "name": "Atlantic City International Airport",
+    "code": "ACY",
+    "coordinates": {
+      "latitude": 39.4576,
+      "longitude": -74.5772
+    }
+  },
+  "YAT": {
+    "name": "Attawapiskat Airport",
+    "code": "YAT",
+    "coordinates": {
+      "latitude": 52.9275,
+      "longitude": -82.4319
+    }
+  },
+  "AKL": {
+    "name": "Auckland Airport",
+    "code": "AKL",
+    "coordinates": {
+      "latitude": -37.0081,
+      "longitude": 174.783
+    }
+  },
+  "AGB": {
+    "name": "Augsburg Airport",
+    "code": "AGB",
+    "coordinates": {
+      "latitude": 48.4253,
+      "longitude": 10.9311
+    }
+  },
+  "AGS": {
+    "name": "Augusta Regional Airport",
+    "code": "AGS",
+    "coordinates": {
+      "latitude": 33.3699,
+      "longitude": -81.9645
+    }
+  },
+  "AUG": {
+    "name": "Augusta State Airport",
+    "code": "AUG",
+    "coordinates": {
+      "latitude": 44.3206,
+      "longitude": -69.7973
+    }
+  },
+  "AUR": {
+    "name": "Aurillac Airport",
+    "code": "AUR",
+    "coordinates": {
+      "latitude": 44.8978,
+      "longitude": 2.4213
+    }
+  },
+  "AUS": {
+    "name": "Austin-Bergstrom International Airport",
+    "code": "AUS",
+    "coordinates": {
+      "latitude": 30.1975,
+      "longitude": -97.6664
+    }
+  },
+  "AYW": {
+    "name": "Ayawasi Airport",
+    "code": "AYW",
+    "coordinates": {
+      "latitude": -1.1595,
+      "longitude": 133.642
+    }
+  },
+  "AYQ": {
+    "name": "Ayers Rock Airport",
+    "code": "AYQ",
+    "coordinates": {
+      "latitude": -25.1861,
+      "longitude": 130.975
+    }
+  },
+  "AYR": {
+    "name": "Ayr Airport",
+    "code": "AYR",
+    "coordinates": {
+      "latitude": -19.5964,
+      "longitude": 147.132
+    }
+  },
+  "BJZ": {
+    "name": "Badajoz Airport",
+    "code": "BJZ",
+    "coordinates": {
+      "latitude": 38.8913,
+      "longitude": -6.8213
+    }
+  },
+  "BGW": {
+    "name": "Baghdad International Airport",
+    "code": "BGW",
+    "coordinates": {
+      "latitude": 33.2625,
+      "longitude": 44.2346
+    }
+  },
+  "IXB": {
+    "name": "Bagdogra Airport",
+    "code": "IXB",
+    "coordinates": {
+      "latitude": 26.685,
+      "longitude": 88.3286
+    }
+  },
+  "NAS": {
+    "name": "Lynden Pindling International Airport",
+    "code": "NAS",
+    "coordinates": {
+      "latitude": 25.0389,
+      "longitude": -77.4662
+    }
+  },
+  "BHV": {
+    "name": "Bahawalpur Airport",
+    "code": "BHV",
+    "coordinates": {
+      "latitude": 29.3481,
+      "longitude": 71.7172
+    }
+  },
+  "BAH": {
+    "name": "Bahrain International Airport",
+    "code": "BAH",
+    "coordinates": {
+      "latitude": 26.2708,
+      "longitude": 50.6336
+    }
+  },
+  "BFL": {
+    "name": "Meadows Field Airport",
+    "code": "BFL",
+    "coordinates": {
+      "latitude": 35.4336,
+      "longitude": -119.056
+    }
+  },
+  "BAK": {
+    "name": "Heydar Aliyev International Airport",
+    "code": "BAK",
+    "coordinates": {
+      "latitude": 40.4675,
+      "longitude": 50.0467
+    }
+  },
+  "BNK": {
+    "name": "Ballina Byron Gateway Airport",
+    "code": "BNK",
+    "coordinates": {
+      "latitude": -28.8342,
+      "longitude": 153.562
+    }
+  },
+  "BWI": {
+    "name": "Baltimore/Washington International Thurgood Marshall Airport",
+    "code": "BWI",
+    "coordinates": {
+      "latitude": 39.1754,
+      "longitude": -76.6682
+    }
+  },
+  "ABM": {
+    "name": "Bamaga Injinoo Airport",
+    "code": "ABM",
+    "coordinates": {
+      "latitude": -10.9416,
+      "longitude": 142.453
+    }
+  },
+  "BKO": {
+    "name": "Senou International Airport",
+    "code": "BKO",
+    "coordinates": {
+      "latitude": 12.5364,
+      "longitude": -7.949
+    }
+  },
+  "BBY": {
+    "name": "Bambari Airport",
+    "code": "BBY",
+    "coordinates": {
+      "latitude": 5.927,
+      "longitude": 20.9896
+    }
+  },
+  "BWN": {
+    "name": "Brunei International Airport",
+    "code": "BWN",
+    "coordinates": {
+      "latitude": 4.9458,
+      "longitude": 114.928
+    }
+  },
+  "BDO": {
+    "name": "Husein Sastranegara International Airport",
+    "code": "BDO",
+    "coordinates": {
+      "latitude": -6.9006,
+      "longitude": 107.576
+    }
+  },
+  "BLR": {
+    "name": "Kempegowda International Airport",
+    "code": "BLR",
+    "coordinates": {
+      "latitude": 13.1989,
+      "longitude": 77.7066
+    }
+  },
+  "BGU": {
+    "name": "Bangassou Airport",
+    "code": "BGU",
+    "coordinates": {
+      "latitude": 4.9944,
+      "longitude": 22.8128
+    }
+  },
+  "DMK": {
+    "name": "Don Mueang International Airport",
+    "code": "DMK",
+    "coordinates": {
+      "latitude": 13.9127,
+      "longitude": 100.606
+    }
+  },
+  "BKK": {
+    "name": "Suvarnabhumi Airport",
+    "code": "BKK",
+    "coordinates": {
+      "latitude": 13.6934,
+      "longitude": 100.75
+    }
+  },
+  "BGR": {
+    "name": "Bangor International Airport",
+    "code": "BGR",
+    "coordinates": {
+      "latitude": 44.8074,
+      "longitude": -68.8281
+    }
+  },
+  "BGF": {
+    "name": "Bangui M'Poko International Airport",
+    "code": "BGF",
+    "coordinates": {
+      "latitude": 4.3961,
+      "longitude": 18.5189
+    }
+  },
+  "BJL": {
+    "name": "Banjul International Airport",
+    "code": "BJL",
+    "coordinates": {
+      "latitude": 13.3409,
+      "longitude": -16.6522
+    }
+  },
+  "BNP": {
+    "name": "Bannu Airport",
+    "code": "BNP",
+    "coordinates": {
+      "latitude": 32.9733,
+      "longitude": 70.5297
+    }
+  },
+  "BCN": {
+    "name": "Barcelona-El Prat Airport",
+    "code": "BCN",
+    "coordinates": {
+      "latitude": 41.2971,
+      "longitude": 2.0785
+    }
+  },
+  "BLA": {
+    "name": "General José Antonio Anzoategui International Airport",
+    "code": "BLA",
+    "coordinates": {
+      "latitude": 10.1111,
+      "longitude": -64.6892
+    }
+  },
+  "BDU": {
+    "name": "Bardufoss Airport",
+    "code": "BDU",
+    "coordinates": {
+      "latitude": 69.0558,
+      "longitude": 18.5404
+    }
+  },
+  "BRI": {
+    "name": "Bari Karol Wojtyła Airport",
+    "code": "BRI",
+    "coordinates": {
+      "latitude": 41.1376,
+      "longitude": 16.7594
+    }
+  },
+  "BZL": {
+    "name": "Barisal Airport",
+    "code": "BZL",
+    "coordinates": {
+      "latitude": 22.8017,
+      "longitude": 90.301
+    }
+  },
+  "BDQ": {
+    "name": "Vadodara Airport",
+    "code": "BDQ",
+    "coordinates": {
+      "latitude": 22.3368,
+      "longitude": 73.226
+    }
+  },
+  "GYN": {
+    "name": "Santa Genoveva Airport",
+    "code": "GYN",
+    "coordinates": {
+      "latitude": -16.6316,
+      "longitude": -49.2218
+    }
+  },
+  "MAO": {
+    "name": "Eduardo Gomes International Airport",
+    "code": "MAO",
+    "coordinates": {
+      "latitude": -3.0386,
+      "longitude": -60.0497
+    }
+  },
+  "CGB": {
+    "name": "Marechal Rondon International Airport",
+    "code": "CGB",
+    "coordinates": {
+      "latitude": -15.6536,
+      "longitude": -56.1167
+    }
+  },
+  "NAT": {
+    "name": "Greater Natal International Airport",
+    "code": "NAT",
+    "coordinates": {
+      "latitude": -5.9111,
+      "longitude": -35.2497
+    }
+  },
+  "IGU": {
+    "name": "Cataratas International Airport",
+    "code": "IGU",
+    "coordinates": {
+      "latitude": -25.5975,
+      "longitude": -54.4875
+    }
+  },
+  "MCZ": {
+    "name": "Zumbi dos Palmares International Airport",
+    "code": "MCZ",
+    "coordinates": {
+      "latitude": -9.5108,
+      "longitude": -35.7917
+    }
+  },
+  "PBS": {
+    "name": "Porto Belo Airport",
+    "code": "PBS",
+    "coordinates": {
+      "latitude": -27.1342,
+      "longitude": -48.6331
+    }
+  },
+  "NVT": {
+    "name": "Ministro Victor Konder International Airport",
+    "code": "NVT",
+    "coordinates": {
+      "latitude": -26.8794,
+      "longitude": -48.6514
+    }
+  },
+  "SLZ": {
+    "name": "Marechal Cunha Machado International Airport",
+    "code": "SLZ",
+    "coordinates": {
+      "latitude": -2.5854,
+      "longitude": -44.2341
+    }
+  },
+  "CGR": {
+    "name": "Campo Grande International Airport",
+    "code": "CGR",
+    "coordinates": {
+      "latitude": -20.4686,
+      "longitude": -54.6725
+    }
+  },
+  "JPA": {
+    "name": "Presidente Castro Pinto International Airport",
+    "code": "JPA",
+    "coordinates": {
+      "latitude": -7.1458,
+      "longitude": -34.9486
+    }
+  },
+  "AJU": {
+    "name": "Santa Maria Airport",
+    "code": "AJU",
+    "coordinates": {
+      "latitude": -10.9872,
+      "longitude": -37.0703
+    }
+  },
+  "THE": {
+    "name": "Senador Petrônio Portella Airport",
+    "code": "THE",
+    "coordinates": {
+      "latitude": -5.059,
+      "longitude": -42.8235
+    }
+  },
+  "UDI": {
+    "name": "Ten. Cel. Av. César Bombonato Airport",
+    "code": "UDI",
+    "coordinates": {
+      "latitude": -18.8836,
+      "longitude": -48.2267
+    }
+  },
+  "LDB": {
+    "name": "Londrina Airport",
+    "code": "LDB",
+    "coordinates": {
+      "latitude": -23.3336,
+      "longitude": -51.1303
+    }
+  },
+  "RAO": {
+    "name": "Leite Lopes Airport",
+    "code": "RAO",
+    "coordinates": {
+      "latitude": -21.1375,
+      "longitude": -47.7766
+    }
+  },
+  "PVH": {
+    "name": "Governador Jorge Teixeira de Oliveira International Airport",
+    "code": "PVH",
+    "coordinates": {
+      "latitude": -8.7158,
+      "longitude": -63.8992
+    }
+  },
+  "SJP": {
+    "name": "Prof. Eribelto Manoel Reino State Airport",
+    "code": "SJP",
+    "coordinates": {
+      "latitude": -20.8166,
+      "longitude": -49.4067
+    }
+  },
+  "MGF": {
+    "name": "Regional de Maringá - Sílvio Nane Junior Airport",
+    "code": "MGF",
+    "coordinates": {
+      "latitude": -23.4794,
+      "longitude": -52.012
+    }
+  },
+  "PMW": {
+    "name": "Brigadeiro Lysias Rodrigues Airport",
+    "code": "PMW",
+    "coordinates": {
+      "latitude": -10.24,
+      "longitude": -48.3528
+    }
+  },
+  "IOS": {
+    "name": "Ilhéus Jorge Amado Airport",
+    "code": "IOS",
+    "coordinates": {
+      "latitude": -14.8158,
+      "longitude": -39.0331
+    }
+  },
+  "MCP": {
+    "name": "Alberto Alcolumbre International Airport",
+    "code": "MCP",
+    "coordinates": {
+      "latitude": 0.0497,
+      "longitude": -51.0725
+    }
+  },
+  "JDO": {
+    "name": "Orlando Bezerra de Menezes Airport",
+    "code": "JDO",
+    "coordinates": {
+      "latitude": -7.2189,
+      "longitude": -39.2703
+    }
+  },
+  "JOI": {
+    "name": "Lauro Carneiro de Loyola Airport",
+    "code": "JOI",
+    "coordinates": {
+      "latitude": -26.2245,
+      "longitude": -48.7974
+    }
+  },
+  "PNZ": {
+    "name": "Senador Nilo Coelho Airport",
+    "code": "PNZ",
+    "coordinates": {
+      "latitude": -9.3936,
+      "longitude": -40.4908
+    }
+  },
+  "XAP": {
+    "name": "Chapecó Airport",
+    "code": "XAP",
+    "coordinates": {
+      "latitude": -27.1342,
+      "longitude": -52.6567
+    }
+  },
+  "STM": {
+    "name": "Santarém-Maestro Wilson Fonseca Airport",
+    "code": "STM",
+    "coordinates": {
+      "latitude": -2.4247,
+      "longitude": -54.785
+    }
+  },
+  "RBR": {
+    "name": "Plácido de Castro International Airport",
+    "code": "RBR",
+    "coordinates": {
+      "latitude": -9.8694,
+      "longitude": -67.8961
+    }
+  },
+  "IMP": {
+    "name": "Prefeito Renato Moreira Airport",
+    "code": "IMP",
+    "coordinates": {
+      "latitude": -5.5313,
+      "longitude": -47.46
+    }
+  },
+  "BVB": {
+    "name": "Atlas Brasil Cantanhede Airport",
+    "code": "BVB",
+    "coordinates": {
+      "latitude": 2.8414,
+      "longitude": -60.6928
+    }
+  },
+  "MAB": {
+    "name": "João Correa da Rocha Airport",
+    "code": "MAB",
+    "coordinates": {
+      "latitude": -5.3686,
+      "longitude": -49.1386
+    }
+  },
+  "PPB": {
+    "name": "Presidente Prudente Airport",
+    "code": "PPB",
+    "coordinates": {
+      "latitude": -22.1758,
+      "longitude": -51.4247
+    }
+  },
+  "MOC": {
+    "name": "Mário Ribeiro Airport",
+    "code": "MOC",
+    "coordinates": {
+      "latitude": -16.7069,
+      "longitude": -43.8208
+    }
+  },
+  "FEN": {
+    "name": "Fernando de Noronha Airport",
+    "code": "FEN",
+    "coordinates": {
+      "latitude": -3.8549,
+      "longitude": -32.4233
+    }
+  },
+  "PLU": {
+    "name": "Pampulha Airport",
+    "code": "PLU",
+    "coordinates": {
+      "latitude": -19.8511,
+      "longitude": -43.9506
+    }
+  },
+  "JUJ": {
+    "name": "Gobernador Horacio Guzmán International Airport",
+    "code": "JUJ",
+    "coordinates": {
+      "latitude": -24.3928,
+      "longitude": -65.0978
+    }
+  },
+  "REL": {
+    "name": "Almirante Marcos A. Zar Airport",
+    "code": "REL",
+    "coordinates": {
+      "latitude": -43.2105,
+      "longitude": -65.2703
+    }
+  },
+  "MDQ": {
+    "name": "Astor Piazzolla International Airport",
+    "code": "MDQ",
+    "coordinates": {
+      "latitude": -37.9342,
+      "longitude": -57.5733
+    }
+  },
+  "LUQ": {
+    "name": "Brigadier Mayor César Raúl Ojeda Airport",
+    "code": "LUQ",
+    "coordinates": {
+      "latitude": -33.2742,
+      "longitude": -66.3564
+    }
+  },
+  "BHI": {
+    "name": "Comandante Espora Airport",
+    "code": "BHI",
+    "coordinates": {
+      "latitude": -38.725,
+      "longitude": -62.1575
+    }
+  },
+  "CTC": {
+    "name": "Coronel Felipe Varela International Airport",
+    "code": "CTC",
+    "coordinates": {
+      "latitude": -28.5956,
+      "longitude": -65.7517
+    }
+  },
+  "UAQ": {
+    "name": "Domingo Faustino Sarmiento Airport",
+    "code": "UAQ",
+    "coordinates": {
+      "latitude": -31.5715,
+      "longitude": -68.4182
+    }
+  },
+  "FMA": {
+    "name": "El Pucú Airport",
+    "code": "FMA",
+    "coordinates": {
+      "latitude": -26.2127,
+      "longitude": -58.2354
+    }
+  },
+  "RGA": {
+    "name": "Hermes Quijada International Airport",
+    "code": "RGA",
+    "coordinates": {
+      "latitude": -53.7777,
+      "longitude": -67.7494
+    }
+  },
+  "PSS": {
+    "name": "Libertador General José de San Martín Airport",
+    "code": "PSS",
+    "coordinates": {
+      "latitude": -27.3858,
+      "longitude": -55.9707
+    }
+  },
+  "RGL": {
+    "name": "Piloto Civil Norberto Fernández International Airport",
+    "code": "RGL",
+    "coordinates": {
+      "latitude": -51.6089,
+      "longitude": -69.3126
+    }
+  },
+  "RES": {
+    "name": "Resistencia General José de San Martín Airport",
+    "code": "RES",
+    "coordinates": {
+      "latitude": -27.4498,
+      "longitude": -59.0561
+    }
+  },
+  "RHD": {
+    "name": "Termas de Río Hondo Airport",
+    "code": "RHD",
+    "coordinates": {
+      "latitude": -27.4962,
+      "longitude": -64.9358
+    }
+  },
+  "SDE": {
+    "name": "Vicecomodoro Ángel de la Paz Aragones Airport",
+    "code": "SDE",
+    "coordinates": {
+      "latitude": -27.7656,
+      "longitude": -64.3103
+    }
+  },
+  "YYC": {
+    "name": "Calgary International Airport",
+    "code": "YYC",
+    "coordinates": {
+      "latitude": 51.1139,
+      "longitude": -114.0203
+    }
+  },
+  "YEG": {
+    "name": "Edmonton International Airport",
+    "code": "YEG",
+    "coordinates": {
+      "latitude": 53.3097,
+      "longitude": -113.5797
+    }
+  },
+  "YFC": {
+    "name": "Fredericton International Airport",
+    "code": "YFC",
+    "coordinates": {
+      "latitude": 45.8689,
+      "longitude": -66.5297
+    }
+  },
+  "YQX": {
+    "name": "Gander International Airport",
+    "code": "YQX",
+    "coordinates": {
+      "latitude": 48.9469,
+      "longitude": -54.5703
+    }
+  },
+  "YHZ": {
+    "name": "Halifax Stanfield International Airport",
+    "code": "YHZ",
+    "coordinates": {
+      "latitude": 44.8847,
+      "longitude": -63.5147
+    }
+  },
+  "YQM": {
+    "name": "Greater Moncton Roméo LeBlanc International Airport",
+    "code": "YQM",
+    "coordinates": {
+      "latitude": 46.1122,
+      "longitude": -64.6786
+    }
+  },
+  "YUL": {
+    "name": "Montréal–Trudeau International Airport",
+    "code": "YUL",
+    "coordinates": {
+      "latitude": 45.4706,
+      "longitude": -73.7408
+    }
+  },
+  "YOW": {
+    "name": "Ottawa Macdonald–Cartier International Airport",
+    "code": "YOW",
+    "coordinates": {
+      "latitude": 45.3226,
+      "longitude": -75.6692
+    }
+  },
+  "YQB": {
+    "name": "Québec/Jean Lesage International Airport",
+    "code": "YQB",
+    "coordinates": {
+      "latitude": 46.7911,
+      "longitude": -71.3933
+    }
+  },
+  "YYT": {
+    "name": "St. John's International Airport",
+    "code": "YYT",
+    "coordinates": {
+      "latitude": 47.6186,
+      "longitude": -52.7431
+    }
+  },
+  "YYZ": {
+    "name": "Toronto Pearson International Airport",
+    "code": "YYZ",
+    "coordinates": {
+      "latitude": 43.6772,
+      "longitude": -79.6306
+    }
+  },
+  "YVR": {
+    "name": "Vancouver International Airport",
+    "code": "YVR",
+    "coordinates": {
+      "latitude": 49.1947,
+      "longitude": -123.1792
+    }
+  },
+  "YYJ": {
+    "name": "Victoria International Airport",
+    "code": "YYJ",
+    "coordinates": {
+      "latitude": 48.6469,
+      "longitude": -123.425
+    }
+  },
+  "YWG": {
+    "name": "Winnipeg James Armstrong Richardson International Airport",
+    "code": "YWG",
+    "coordinates": {
+      "latitude": 49.91,
+      "longitude": -97.2399
+    }
+  },
+  "BRU": {
+    "name": "Brussels Airport",
+    "code": "BRU",
+    "coordinates": {
+      "latitude": 50.9014,
+      "longitude": 4.4844
+    }
+  },
+  "CRL": {
+    "name": "Brussels South Charleroi Airport",
+    "code": "CRL",
+    "coordinates": {
+      "latitude": 50.4592,
+      "longitude": 4.4538
+    }
+  },
+  "LGG": {
+    "name": "Liège Airport",
+    "code": "LGG",
+    "coordinates": {
+      "latitude": 50.6375,
+      "longitude": 5.4431
+    }
+  },
+  "OST": {
+    "name": "Ostend-Bruges International Airport",
+    "code": "OST",
+    "coordinates": {
+      "latitude": 51.1997,
+      "longitude": 2.8622
+    }
+  },
+  "AJA": {
+    "name": "Campo dell'Oro Airport",
+    "code": "AJA",
+    "coordinates": {
+      "latitude": 41.9236,
+      "longitude": 8.8025
+    }
+  },
+  "BIA": {
+    "name": "Poretta Airport",
+    "code": "BIA",
+    "coordinates": {
+      "latitude": 42.5527,
+      "longitude": 9.4847
+    }
+  },
+  "BVA": {
+    "name": "Beauvais-Tillé Airport",
+    "code": "BVA",
+    "coordinates": {
+      "latitude": 49.4547,
+      "longitude": 2.1128
+    }
+  },
+  "EGC": {
+    "name": "Bergerac-Roumanière Airport",
+    "code": "EGC",
+    "coordinates": {
+      "latitude": 44.8253,
+      "longitude": 0.5186
+    }
+  },
+  "BZR": {
+    "name": "Béziers Cap d'Agde Airport",
+    "code": "BZR",
+    "coordinates": {
+      "latitude": 43.3236,
+      "longitude": 3.3539
+    }
+  },
+  "BIQ": {
+    "name": "Biarritz Airport",
+    "code": "BIQ",
+    "coordinates": {
+      "latitude": 43.4683,
+      "longitude": -1.5311
+    }
+  },
+  "BOD": {
+    "name": "Bordeaux-Mérignac Airport",
+    "code": "BOD",
+    "coordinates": {
+      "latitude": 44.8283,
+      "longitude": -0.7156
+    }
+  },
+  "BES": {
+    "name": "Brest Bretagne Airport",
+    "code": "BES",
+    "coordinates": {
+      "latitude": 48.4475,
+      "longitude": -4.4181
+    }
+  },
+  "CCF": {
+    "name": "Salvaza Airport",
+    "code": "CCF",
+    "coordinates": {
+      "latitude": 43.215,
+      "longitude": 2.3086
+    }
+  },
+  "XCR": {
+    "name": "Châlons Vatry Airport",
+    "code": "XCR",
+    "coordinates": {
+      "latitude": 48.7767,
+      "longitude": 4.2067
+    }
+  },
+  "CMF": {
+    "name": "Chambéry-Savoie Airport",
+    "code": "CMF",
+    "coordinates": {
+      "latitude": 45.6381,
+      "longitude": 5.8811
+    }
+  },
+  "DNR": {
+    "name": "Pleurtuit Airport",
+    "code": "DNR",
+    "coordinates": {
+      "latitude": 48.5872,
+      "longitude": -2.0797
+    }
+  },
+  "FSC": {
+    "name": "Figari Sud-Corse Airport",
+    "code": "FSC",
+    "coordinates": {
+      "latitude": 41.5006,
+      "longitude": 9.0978
+    }
+  },
+  "GNB": {
+    "name": "Grenoble-Isère Airport",
+    "code": "GNB",
+    "coordinates": {
+      "latitude": 45.3629,
+      "longitude": 5.3294
+    }
+  },
+  "LRH": {
+    "name": "Île de Ré Airport",
+    "code": "LRH",
+    "coordinates": {
+      "latitude": 46.1781,
+      "longitude": -1.195
+    }
+  },
+  "LIL": {
+    "name": "Lille Lesquin Airport",
+    "code": "LIL",
+    "coordinates": {
+      "latitude": 50.5619,
+      "longitude": 3.0894
+    }
+  },
+  "LIG": {
+    "name": "Bellegarde Airport",
+    "code": "LIG",
+    "coordinates": {
+      "latitude": 45.8628,
+      "longitude": 1.1792
+    }
+  },
+  "LYS": {
+    "name": "Lyon Saint-Exupéry Airport",
+    "code": "LYS",
+    "coordinates": {
+      "latitude": 45.7264,
+      "longitude": 5.0908
+    }
+  },
+  "MRS": {
+    "name": "Marseille Provence Airport",
+    "code": "MRS",
+    "coordinates": {
+      "latitude": 43.4393,
+      "longitude": 5.2214
+    }
+  },
+  "BSL": {
+    "name": "Basel-Mulhouse-Freiburg Airport",
+    "code": "BSL",
+    "coordinates": {
+      "latitude": 47.5997,
+      "longitude": 7.5325
+    }
+  },
+  "NTE": {
+    "name": "Nantes Atlantique Airport",
+    "code": "NTE",
+    "coordinates": {
+      "latitude": 47.1532,
+      "longitude": -1.6108
+    }
+  },
+  "NCE": {
+    "name": "Nice Côte d'Azur Airport",
+    "code": "NCE",
+    "coordinates": {
+      "latitude": 43.6599,
+      "longitude": 7.2159
+    }
+  },
+  "FNI": {
+    "name": "Garons Airport",
+    "code": "FNI",
+    "coordinates": {
+      "latitude": 43.7575,
+      "longitude": 4.4161
+    }
+  },
+  "CDG": {
+    "name": "Charles de Gaulle Airport",
+    "code": "CDG",
+    "coordinates": {
+      "latitude": 49.0034,
+      "longitude": 2.567
+    }
+  },
+  "ORY": {
+    "name": "Orly Airport",
+    "code": "ORY",
+    "coordinates": {
+      "latitude": 48.7233,
+      "longitude": 2.3794
+    }
+  },
+  "PUF": {
+    "name": "Uzein Airport",
+    "code": "PUF",
+    "coordinates": {
+      "latitude": 43.3822,
+      "longitude": -0.4186
+    }
+  },
+  "PGF": {
+    "name": "Llabanère Airport",
+    "code": "PGF",
+    "coordinates": {
+      "latitude": 42.7403,
+      "longitude": 2.8697
+    }
+  },
+  "PIS": {
+    "name": "Biard Airport",
+    "code": "PIS",
+    "coordinates": {
+      "latitude": 46.5875,
+      "longitude": 0.3067
+    }
+  },
+  "RDZ": {
+    "name": "Marcillac Airport",
+    "code": "RDZ",
+    "coordinates": {
+      "latitude": 44.4075,
+      "longitude": 2.4822
+    }
+  },
+  "EBU": {
+    "name": "Bouthéon Airport",
+    "code": "EBU",
+    "coordinates": {
+      "latitude": 45.5411,
+      "longitude": 4.2967
+    }
+  },
+  "SXB": {
+    "name": "Strasbourg Airport",
+    "code": "SXB",
+    "coordinates": {
+      "latitude": 48.5383,
+      "longitude": 7.6281
+    }
+  },
+  "TLN": {
+    "name": "Hyères Le Palyvestre Airport",
+    "code": "TLN",
+    "coordinates": {
+      "latitude": 43.0972,
+      "longitude": 6.1467
+    }
+  },
+  "TLS": {
+    "name": "Blagnac Airport",
+    "code": "TLS",
+    "coordinates": {
+      "latitude": 43.6291,
+      "longitude": 1.3638
+    }
+  },
+  "TUF": {
+    "name": "Tours Loire Valley Airport",
+    "code": "TUF",
+    "coordinates": {
+      "latitude": 47.4322,
+      "longitude": 0.7275
+    }
+  },
+  "GIB": {
+    "name": "North Front Airport",
+    "code": "GIB",
+    "coordinates": {
+      "latitude": 36.1511,
+      "longitude": -5.3497
+    }
+  },
+  "GCI": {
+    "name": "Guernsey Airport",
+    "code": "GCI",
+    "coordinates": {
+      "latitude": 49.4349,
+      "longitude": -2.6011
+    }
+  },
+  "JER": {
+    "name": "Jersey Airport",
+    "code": "JER",
+    "coordinates": {
+      "latitude": 49.2078,
+      "longitude": -2.1955
+    }
+  },
+  "ORK": {
+    "name": "Cork Airport",
+    "code": "ORK",
+    "coordinates": {
+      "latitude": 51.8413,
+      "longitude": -8.4911
+    }
+  },
+  "DUB": {
+    "name": "Dublin Airport",
+    "code": "DUB",
+    "coordinates": {
+      "latitude": 53.4214,
+      "longitude": -6.27
+    }
+  },
+  "KIR": {
+    "name": "Kerry Airport",
+    "code": "KIR",
+    "coordinates": {
+      "latitude": 52.1817,
+      "longitude": -9.5236
+    }
+  },
+  "NOC": {
+    "name": "Ireland West Airport Knock",
+    "code": "NOC",
+    "coordinates": {
+      "latitude": 53.9103,
+      "longitude": -8.8185
+    }
+  },
+  "SNN": {
+    "name": "Shannon Airport",
+    "code": "SNN",
+    "coordinates": {
+      "latitude": 52.7019,
+      "longitude": -8.9248
+    }
+  },
+  "IOM": {
+    "name": "Isle of Man Airport",
+    "code": "IOM",
+    "coordinates": {
+      "latitude": 54.0833,
+      "longitude": -4.6239
+    }
+  },
+  "LUX": {
+    "name": "Luxembourg Findel Airport",
+    "code": "LUX",
+    "coordinates": {
+      "latitude": 49.6233,
+      "longitude": 6.2044
+    }
+  },
+  "AMS": {
+    "name": "Amsterdam Airport Schiphol",
+    "code": "AMS",
+    "coordinates": {
+      "latitude": 52.3086,
+      "longitude": 4.7639
+    }
+  },
+  "EIN": {
+    "name": "Eindhoven Airport",
+    "code": "EIN",
+    "coordinates": {
+      "latitude": 51.4501,
+      "longitude": 5.3744
+    }
+  },
+  "GRQ": {
+    "name": "Groningen Airport Eelde",
+    "code": "GRQ",
+    "coordinates": {
+      "latitude": 53.1197,
+      "longitude": 6.5775
+    }
+  },
+  "MST": {
+    "name": "Maastricht-Aachen Airport",
+    "code": "MST",
+    "coordinates": {
+      "latitude": 50.9117,
+      "longitude": 5.7708
+    }
+  },
+  "RTM": {
+    "name": "Rotterdam The Hague Airport",
+    "code": "RTM",
+    "coordinates": {
+      "latitude": 51.9569,
+      "longitude": 4.4372
+    }
+  },
+  "BYJ": {
+    "name": "Beja Airport",
+    "code": "BYJ",
+    "coordinates": {
+      "latitude": 38.0711,
+      "longitude": -7.9328
+    }
+  },
+  "FAO": {
+    "name": "Faro Airport",
+    "code": "FAO",
+    "coordinates": {
+      "latitude": 37.0144,
+      "longitude": -7.9656
+    }
+  },
+  "FNC": {
+    "name": "Madeira Airport",
+    "code": "FNC",
+    "coordinates": {
+      "latitude": 32.6942,
+      "longitude": -16.775
+    }
+  },
+  "PXO": {
+    "name": "Porto Santo Airport",
+    "code": "PXO",
+    "coordinates": {
+      "latitude": 33.0734,
+      "longitude": -16.3498
+    }
+  },
+  "LIS": {
+    "name": "Humberto Delgado Airport",
+    "code": "LIS",
+    "coordinates": {
+      "latitude": 38.7742,
+      "longitude": -9.1342
+    }
+  },
+  "OPO": {
+    "name": "Francisco Sá Carneiro Airport",
+    "code": "OPO",
+    "coordinates": {
+      "latitude": 41.2371,
+      "longitude": -8.6714
+    }
+  },
+  "PDL": {
+    "name": "João Paulo II Airport",
+    "code": "PDL",
+    "coordinates": {
+      "latitude": 37.7412,
+      "longitude": -25.6979
+    }
+  },
+  "TER": {
+    "name": "Terceira Airport",
+    "code": "TER",
+    "coordinates": {
+      "latitude": 38.7611,
+      "longitude": -27.0908
+    }
+  },
+  "LCG": {
+    "name": "Alvedro Airport",
+    "code": "LCG",
+    "coordinates": {
+      "latitude": 43.3021,
+      "longitude": -8.3773
+    }
+  },
+  "ALC": {
+    "name": "Alicante Airport",
+    "code": "ALC",
+    "coordinates": {
+      "latitude": 38.2822,
+      "longitude": -0.5582
+    }
+  },
+  "LEI": {
+    "name": "Almería International Airport",
+    "code": "LEI",
+    "coordinates": {
+      "latitude": 36.8436,
+      "longitude": -2.3701
+    }
+  },
+  "OVD": {
+    "name": "Asturias Airport",
+    "code": "OVD",
+    "coordinates": {
+      "latitude": 43.5636,
+      "longitude": -6.0346
+    }
+  },
+  "BCN": {
+    "name": "Barcelona Airport",
+    "code": "BCN",
+    "coordinates": {
+      "latitude": 41.2971,
+      "longitude": 2.0785
+    }
+  },
+  "FUE": {
+    "name": "Fuerteventura Airport",
+    "code": "FUE",
+    "coordinates": {
+      "latitude": 28.4527,
+      "longitude": -13.8638
+    }
+  },
+  "GRO": {
+    "name": "Girona-Costa Brava Airport",
+    "code": "GRO",
+    "coordinates": {
+      "latitude": 41.9006,
+      "longitude": 2.7606
+    }
+  },
+  "LPA": {
+    "name": "Gran Canaria Airport",
+    "code": "LPA",
+    "coordinates": {
+      "latitude": 27.9319,
+      "longitude": -15.3866
+    }
+  },
+  "GRX": {
+    "name": "Granada Airport",
+    "code": "GRX",
+    "coordinates": {
+      "latitude": 37.1887,
+      "longitude": -3.7774
+    }
+  },
+  "HSK": {
+    "name": "Huesca-Pirineos Airport",
+    "code": "HSK",
+    "coordinates": {
+      "latitude": 42.0769,
+      "longitude": -0.3169
+    }
+  },
+  "IBZ": {
+    "name": "Ibiza Airport",
+    "code": "IBZ",
+    "coordinates": {
+      "latitude": 38.8729,
+      "longitude": 1.3731
+    }
+  },
+  "XRY": {
+    "name": "Jerez Airport",
+    "code": "XRY",
+    "coordinates": {
+      "latitude": 36.7446,
+      "longitude": -6.0601
+    }
+  },
+  "SPC": {
+    "name": "La Palma Airport",
+    "code": "SPC",
+    "coordinates": {
+      "latitude": 28.6265,
+      "longitude": -17.7556
+    }
+  },
+  "ACE": {
+    "name": "Lanzarote Airport",
+    "code": "ACE",
+    "coordinates": {
+      "latitude": 28.9455,
+      "longitude": -13.6052
+    }
+  },
+  "ILD": {
+    "name": "Lleida-Alguaire Airport",
+    "code": "ILD",
+    "coordinates": {
+      "latitude": 41.7281,
+      "longitude": 0.535
+    }
+  },
+  "MAD": {
+    "name": "Madrid-Barajas Airport",
+    "code": "MAD",
+    "coordinates": {
+      "latitude": 40.472,
+      "longitude": -3.5606
+    }
+  },
+  "AGP": {
+    "name": "Málaga Airport",
+    "code": "AGP",
+    "coordinates": {
+      "latitude": 36.6749,
+      "longitude": -4.4983
+    }
+  },
+  "MAH": {
+    "name": "Menorca Airport",
+    "code": "MAH",
+    "coordinates": {
+      "latitude": 39.8626,
+      "longitude": 4.2186
+    }
+  },
+  "MJV": {
+    "name": "Murcia-San Javier Airport",
+    "code": "MJV",
+    "coordinates": {
+      "latitude": 37.7749,
+      "longitude": -0.8124
+    }
+  },
+  "PMI": {
+    "name": "Palma de Mallorca Airport",
+    "code": "PMI",
+    "coordinates": {
+      "latitude": 39.5517,
+      "longitude": 2.7388
+    }
+  },
+  "REU": {
+    "name": "Reus Airport",
+    "code": "REU",
+    "coordinates": {
+      "latitude": 41.1474,
+      "longitude": 1.1672
+    }
+  },
+  "SDR": {
+    "name": "Santander Airport",
+    "code": "SDR",
+    "coordinates": {
+      "latitude": 43.4271,
+      "longitude": -3.8236
+    }
+  },
+  "SCQ": {
+    "name": "Santiago de Compostela Airport",
+    "code": "SCQ",
+    "coordinates": {
+      "latitude": 42.8963,
+      "longitude": -8.4151
+    }
+  },
+  "SVQ": {
+    "name": "Seville Airport",
+    "code": "SVQ",
+    "coordinates": {
+      "latitude": 37.418,
+      "longitude": -5.8931
+    }
+  },
+  "TFN": {
+    "name": "Tenerife North Airport",
+    "code": "TFN",
+    "coordinates": {
+      "latitude": 28.4827,
+      "longitude": -16.3415
+    }
+  },
+  "TFS": {
+    "name": "Tenerife South Airport",
+    "code": "TFS",
+    "coordinates": {
+      "latitude": 28.0445,
+      "longitude": -16.5725
+    }
+  },
+  "VLC": {
+    "name": "Valencia Airport",
+    "code": "VLC",
+    "coordinates": {
+      "latitude": 39.4893,
+      "longitude": -0.4816
+    }
+  },
+  "VLL": {
+    "name": "Valladolid Airport",
+    "code": "VLL",
+    "coordinates": {
+      "latitude": 41.7061,
+      "longitude": -4.8519
+    }
+  },
+  "ZAZ": {
+    "name": "Zaragoza Airport",
+    "code": "ZAZ",
+    "coordinates": {
+      "latitude": 41.6662,
+      "longitude": -1.0416
+    }
+  }
+}
+
+
+
+
+
