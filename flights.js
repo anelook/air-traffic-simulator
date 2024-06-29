@@ -1,7 +1,7 @@
 const flights = require('./schedule.json');
 const airports = require('./airports.json');
 
-let flightStatuses = [];
+const AIRPLANE_SPEED = 10000;
 const calculateDistance = function (airport1, airport2) {
     // Extract the latitude and longitude coordinates of the first airport
     const lat1 = airport1.coordinates.latitude;
@@ -60,7 +60,7 @@ const scheduleFlight = function (flight) {
 
     // estimate the progress of the flight
     const elapsedTime = currentTime - departureTime.getTime();
-    const travelTime = (distance / 10000) * 1000;
+    const travelTime = (distance / AIRPLANE_SPEED) * 1000;
     const progress = elapsedTime / travelTime;
 
     // if the flight is not in the air - then give its status
@@ -87,16 +87,22 @@ const scheduleFlight = function (flight) {
 
 }
 
-const simulateFlights = function () {
-    flightStatuses = flights.map(flight => scheduleFlight(flight));
+// const simulateFlights = function () {
+//     flightStatuses = flights.map(flight => scheduleFlight(flight));
+//
+//     const inProgress  = flightStatuses.filter(flight => flight.status === 'in flight');
+//     inProgress.map(status => console.log(status));
+//     const landed = flightStatuses.filter(flight => flight.status === 'landed');
+//     const notDeparted = flightStatuses.filter(flight => flight.status === 'not departed');
+//     console.log(inProgress.length);
+//     console.log(landed.length);
+//     console.log(notDeparted.length);
+// }
 
-    const inProgress  = flightStatuses.filter(flight => flight.status === 'in flight');
-    inProgress.map(status => console.log(status));
-    const landed = flightStatuses.filter(flight => flight.status === 'landed');
-    const notDeparted = flightStatuses.filter(flight => flight.status === 'not departed');
-    console.log(inProgress.length);
-    console.log(landed.length);
-    console.log(notDeparted.length);
+
+const getFlightsInProgress = () => {
+    return flights.map(flight => scheduleFlight(flight))
+        .filter(flight => flight.status === 'in flight');
 }
 
-setInterval(simulateFlights, 1000);
+module.exports = getFlightsInProgress;
